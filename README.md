@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Cricket Clubs
 - 📫 How to reach me by languages
-- 😄 Pronouns: Desi
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
