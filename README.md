@@ -1,27 +1,64 @@
-<h1 align=“center”>Hi 👋, I’m Dev Dadhania</h1>
-<h3 align=“center”>A passionate Machine Learner</h3>
+### Hi there, I'm D.D.! 👋 
 
-<img align=“right” alt=“coding” width=“400” src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<!--
+**shreayan98c/shreayan98c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align=“left”> <img src="https://komarev.com/ghpvc/?username=mannatmangukiya&label=Profile views&color=0e75b6&style=flat" alt=“mannatmangukiya” /> </p>
+Here are some ideas to get you started:
 
-🔭 I’m currently working on Python and ML
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-🌱 I’m currently learning Python
-💬 Ask me about Anything
+### I'm a Machine Learning Engineer specializing in NLP, Computer Vision, and Recommender Systems. I like solving complex problems revolving around data. I am also a secondary web developer!
+- 🔭 I’m currently researching and experimenting with multimodal Vision-Language Models!
+- 🌱 I’m learning something new every day.
+- 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
+- 🥅 2025 Goals: Participate in more Hackathons and contribute more to Open Source projects.
+- 💬 Ask me about Space, Music, and ML-related stuff.
+- ⚡ Fun fact: I love astronomy and space. I play chess and some tunes on the keyboard. In my free time, I also play soccer.
 
-📫 How to reach me dev886621@gmail.com
+### Connect with me:
 
-<h3 align=“left”>Connect with me:</h3>
-<p align=“left”>
-<a href="https://linkedin.com/in/mannatmangukiya" target=“blank”><img align=“center” src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=“mannatmangukiya” height=“30” width=“40” /></a>
-</p>
+[<img align="left" alt="shreayan98c.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="shreayan98c | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shreayan98c | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="shreayan98c | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="shreayan98c | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
 
-<h3 align=“left”>Languages and Tools:</h3>
-<p align=“left”> <a href="https://aws.amazon.com" target="_blank" rel=“noreferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt=“aws” width=“40” height=“40”/> </a> <a href="https://getbootstrap.com" target="_blank" rel=“noreferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt=“bootstrap” width=“40” height=“40”/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel=“noreferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt=“c” width=“40” height=“40”/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel=“noreferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt=“cplusplus” width=“40” height=“40”/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel=“noreferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt=“css3” width=“40” height=“40”/> </a> <a href="https://git-scm.com/" target="_blank" rel=“noreferrer”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt=“git” width=“40” height=“40”/> </a> <a href="https://www.w3.org/html/" target="_blank" rel=“noreferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt=“html5” width=“40” height=“40”/> </a> <a href="https://www.java.com" target="_blank" rel=“noreferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt=“java” width=“40” height=“40”/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=“noreferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=“javascript” width=“40” height=“40”/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel=“noreferrer”> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt=“mssql” width=“40” height=“40”/> </a> <a href="https://www.oracle.com/" target="_blank" rel=“noreferrer”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt=“oracle” width=“40” height=“40”/> </a> </p>
+<br />
 
-<p><img align=“left” src="https://github-readme-stats.vercel.app/api/top-langs?username=mannatmangukiya&show_icons=true&locale=en&layout=compact" alt=“mannatmangukiya” /></p>
+### Languages and Tools:
 
-<p> <img align=“center” src="https://github-readme-stats.vercel.app/api?username=mannatmangukiya&show_icons=true&locale=en" alt=“mannatmangukiya” /></p>
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
+[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 
-<p><img align=“center” src="https://github-readme-streak-stats.herokuapp.com/?user=mannatmangukiya&" alt=“mannatmangukiya” /></p>
+<br />
+<br />
+
+---
+
+### Github Stats:
+
+
+<img align="left" alt="Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreayan98c&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c&theme=tokyonight" />
+
+[Discord]: gayle_333 
