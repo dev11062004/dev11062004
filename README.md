@@ -1,64 +1,87 @@
-### Hi there, I'm D.D.! 👋 
+# 👨‍💻 **D.D.** - Python Developer | Machine Learning Enthusiast
 
-<!--
-**shreayan98c/shreayan98c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### I'm a Machine Learning Engineer specializing in NLP, Computer Vision, and Recommender Systems. I like solving complex problems revolving around data. I am also a secondary web developer!
-- 🔭 I’m currently researching and experimenting with multimodal Vision-Language Models!
-- 🌱 I’m learning something new every day.
-- 👯 I’m looking to collaborate with other developers for winning Hackathons and Open Source contributions.
-- 🥅 2025 Goals: Participate in more Hackathons and contribute more to Open Source projects.
-- 💬 Ask me about Space, Music, and ML-related stuff.
-- ⚡ Fun fact: I love astronomy and space. I play chess and some tunes on the keyboard. In my free time, I also play soccer.
-
-### Connect with me:
-
-[<img align="left" alt="shreayan98c.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="shreayan98c | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shreayan98c | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="shreayan98c | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="shreayan98c | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
-[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-
-<br />
-<br />
+Welcome to my GitHub profile! I'm a passionate **Python Developer** with a strong focus on **Machine Learning**. I love solving real-world problems with code, automating tasks, and creating intelligent systems that learn from data.
 
 ---
 
-### Github Stats:
+## 🌱 **About Me**
 
+- 🔭 I’m currently working on **Machine Learning projects**, **data analysis**, and **AI-based solutions**.
+- 🌱 I’m learning **Deep Learning**, **Natural Language Processing (NLP)**, and advanced **Data Science** techniques.
+- 👯 I’m looking to collaborate on exciting **AI & ML** projects and help automate complex tasks.
+- 🧑‍💻 I’m open to working on **open-source projects** and contributing to communities.
 
-<img align="left" alt="Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreayan98c&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreayan98c&theme=tokyonight" />
+## 🚀 **Technologies & Tools**
 
-[Discord]: gayle_333 
+- **Languages**: Python, SQL
+- **Libraries/Frameworks**:
+  - Machine Learning: `scikit-learn`, `TensorFlow`, `Keras`, `PyTorch`
+  - Data Science: `pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`
+  - Web Development: `Flask`, `Django`
+  - Automation: `Selenium`, `BeautifulSoup`
+  - Version Control: `Git`, `GitHub`
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Cloud**: AWS, Google Cloud (GCP)
+
+---
+
+## 📈 **Projects**
+
+Here are a few of my key projects that showcase my skills and knowledge:
+
+1. **[Project 1 - Machine Learning Model for Predictive Analysis](https://github.com/yourusername/project1)**  
+   A machine learning project where I used `scikit-learn` to build a predictive model to forecast data trends.
+
+2. **[Project 2 - Image Classification using Convolutional Neural Networks](https://github.com/yourusername/project2)**  
+   Leveraged `TensorFlow` and `Keras` to build an image classifier that classifies images into predefined categories.
+
+3. **[Project 3 - Web Scraping Automation Tool](https://github.com/yourusername/project3)**  
+   A Python-based automation tool that scrapes data from websites using `BeautifulSoup` and stores the information in a structured format.
+
+4. **[Project 4 - Data Analysis on Real-world Datasets](https://github.com/yourusername/project4)**  
+   Performed exploratory data analysis (EDA) on various public datasets, including cleaning, visualizing, and interpreting the data using `pandas` and `Matplotlib`.
+
+---
+
+## 📫 **How to Reach Me**
+
+- 💬 Feel free to open an issue or a pull request on any of my repositories!
+- 📧 Email me at: **your.email@example.com**
+- 🌐 Visit my personal website/portfolio: **[YourPortfolioLink.com](#)**
+
+---
+
+## 📝 **Blog & Articles**
+
+I love writing and sharing my knowledge. Here are some of the blog posts I've written about **Python**, **Machine Learning**, and **AI**:
+
+- [Understanding Linear Regression in Python](#)
+- [Intro to Neural Networks and Deep Learning](#)
+- [Building Chatbots with Python](#)
+
+---
+
+## 📊 **GitHub Stats**
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+
+---
+
+## 💡 **Fun Fact**
+
+I’m always learning and trying new things, and I believe **continuous learning** is the key to growing as a developer.
+
+---
+
+## 📚 **Education**
+
+- **B.S. in Computer Science** - [University Name] - Graduated [Year]
+- Additional courses on Machine Learning, Data Science, and Python Development from platforms like **Coursera**, **edX**, and **Udacity**.
+
+---
+
+## 👨‍🏫 **Let's Connect and Collaborate!**
+
+If you’re passionate about Python, Machine Learning, Data Science, or any related fields, feel free to reach out! I’m always open to collaborating and learning from others.
