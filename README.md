@@ -48,7 +48,7 @@ Here are a few of my key projects that showcase my skills and knowledge:
 ## 📫 **How to Reach Me**
 
 - 💬 Feel free to open an issue or a pull request on any of my repositories!
-- 📧 Email me at: **your.email@example.com**
+- 📧 Email me at: **dev88621@example.com**
 - 🌐 Visit my personal website/portfolio: **[YourPortfolioLink.com](#)**
 
 ---
@@ -77,7 +77,7 @@ I’m always learning and trying new things, and I believe **continuous learning
 
 ## 📚 **Education**
 
-- **B.S. in Computer Science** - [University Name] - Graduated [Year]
+- **B.Tech in Information & Technology** - [CHARUSAT] - Graduated [2027]
 - Additional courses on Machine Learning, Data Science, and Python Development from platforms like **Coursera**, **edX**, and **Udacity**.
 
 ---
