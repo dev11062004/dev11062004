@@ -1,4 +1,4 @@
-# 👨‍💻 **D.D.** - Python Developer | Machine Learning Enthusiast
+# 👨‍💻 **D.D.** - Data Scientist | Machine Learning Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate **Python Developer** with a strong focus on **Machine Learning**. I love solving real-world problems with code, automating tasks, and creating intelligent systems that learn from data.
 
