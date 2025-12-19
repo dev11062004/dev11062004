@@ -48,7 +48,7 @@ Here are a few of my key projects that showcase my skills and knowledge:
 ## 📫 **How to Reach Me**
 
 - 💬 Feel free to open an issue or a pull request on any of my repositories!
-- 📧 Email me at: **dev88621@example.com**
+- 📧 Email me at: **dev886621@example.com**
 - 🌐 Visit my personal website/portfolio: **[YourPortfolioLink.com](#)**
 
 ---
@@ -63,17 +63,7 @@ I love writing and sharing my knowledge. Here are some of the blog posts I've wr
 
 ---
 
-## 📊 **GitHub Stats**
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
-
----
-
-## 💡 **Fun Fact**
-
-I’m always learning and trying new things, and I believe **continuous learning** is the key to growing as a developer.
-
----
 
 ## 📚 **Education**
 
