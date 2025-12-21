@@ -31,17 +31,8 @@ Welcome to my GitHub profile! I'm a passionate **Python Developer** with a stron
 
 Here are a few of my key projects that showcase my skills and knowledge:
 
-1. **[Project 1 - Machine Learning Model for Predictive Analysis](https://github.com/yourusername/project1)**  
+1. **[Class Vision - Smart Face Attendance Face Recognition App](https://github.com/dev11062004/Class-Vision---Smart-Face-Attendance-Face-Recognition-App)**  
    A machine learning project where I used `scikit-learn` to build a predictive model to forecast data trends.
-
-2. **[Project 2 - Image Classification using Convolutional Neural Networks](https://github.com/yourusername/project2)**  
-   Leveraged `TensorFlow` and `Keras` to build an image classifier that classifies images into predefined categories.
-
-3. **[Project 3 - Web Scraping Automation Tool](https://github.com/yourusername/project3)**  
-   A Python-based automation tool that scrapes data from websites using `BeautifulSoup` and stores the information in a structured format.
-
-4. **[Project 4 - Data Analysis on Real-world Datasets](https://github.com/yourusername/project4)**  
-   Performed exploratory data analysis (EDA) on various public datasets, including cleaning, visualizing, and interpreting the data using `pandas` and `Matplotlib`.
 
 ---
 
