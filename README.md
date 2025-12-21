@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate **Python Developer** with a stron
 Here are a few of my key projects that showcase my skills and knowledge:
 
 1. **[Class Vision - Smart Face Attendance Face Recognition App](https://github.com/dev11062004/Class-Vision---Smart-Face-Attendance-Face-Recognition-App)**  
-   A machine learning project where I used `scikit-learn` to build a predictive model to forecast data trends.
+   A face recognition attendance system that uses LBPH (Local Binary Patterns Histograms) algorithm to automatically take attendance by recognizing faces.
 
 ---
 
