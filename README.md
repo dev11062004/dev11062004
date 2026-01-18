@@ -1,6 +1,6 @@
-# 👨‍💻 **D.D.** - Data Analyst  | Machine Learning Enthusiast
+# 👨‍💻 **D.D.** - Data Analyst  | Data Science Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate **Python Developer** with a strong focus on **Machine Learning**. I love solving real-world problems with code, automating tasks, and creating intelligent systems that learn from data.
+Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong focus on **Machine Learning**. I love solving real-world problems with code, automating tasks, and creating intelligent systems that learn from data.
 
 ---
 
@@ -22,17 +22,8 @@ Welcome to my GitHub profile! I'm a passionate **Python Developer** with a stron
   - Web Development: `Flask`, `Django`
   - Automation: `Selenium`, `BeautifulSoup`
   - Version Control: `Git`, `GitHub`
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Google Cloud (GCP)
-
----
-
-## 📈 **Projects**
-
-Here are a few of my key projects that showcase my skills and knowledge:
-
-1. **[Class Vision - Smart Face Attendance Face Recognition App](https://github.com/dev11062004/Class-Vision---Smart-Face-Attendance-Face-Recognition-App)**  
-   A face recognition attendance system that uses LBPH (Local Binary Patterns Histograms) algorithm to automatically take attendance by recognizing faces.
+- **Databases**: SQL, MySQL, PostgreSQL, MongoDB
+- **Cloud**: AWS
 
 ---
 
@@ -40,17 +31,6 @@ Here are a few of my key projects that showcase my skills and knowledge:
 
 - 💬 Feel free to open an issue or a pull request on any of my repositories!
 - 📧 Email me at: **dev886621@example.com**
-- 🌐 Visit my personal website/portfolio: **[YourPortfolioLink.com](#)**
-
----
-
-## 📝 **Blog & Articles**
-
-I love writing and sharing my knowledge. Here are some of the blog posts I've written about **Python**, **Machine Learning**, and **AI**:
-
-- [Understanding Linear Regression in Python](#)
-- [Intro to Neural Networks and Deep Learning](#)
-- [Building Chatbots with Python](#)
 
 ---
 
@@ -59,7 +39,7 @@ I love writing and sharing my knowledge. Here are some of the blog posts I've wr
 ## 📚 **Education**
 
 - **B.Tech in Information & Technology** - [CHARUSAT] - Graduated [2027]
-- Additional courses on Machine Learning, Data Science, and Python Development from platforms like **Coursera**, **edX**, and **Udacity**.
+- IBM Data Analyst Professional Certificate course from **Coursera**.
 
 ---
 
