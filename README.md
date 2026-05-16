@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
 ## 📫 **How to Reach Me**
 
 - 💬 Feel free to open an issue or a pull request on any of my repositories!
-- 📧 Email me at: **dev886621@example.com**
+- 📧 Email me at: **dev886621@gmail.com**
 
 ---
 
